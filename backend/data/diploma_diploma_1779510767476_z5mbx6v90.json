@@ -1,0 +1,17 @@
+{
+  "id": "diploma_1779510767476_z5mbx6v90",
+  "issueDate": "2026-05-23T04:32:47.476Z",
+  "documentType": "Bằng Đại Học",
+  "ownerAddress": "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266",
+  "issuerAddress": "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266",
+  "documentURI": "dainam.edu.vn",
+  "recipientData": {},
+  "documentHash": "0xd66032ee96d7db9fc80c1f632a72cb63c495027bb52aa2086e72ed595349d459",
+  "transactionHash": "0xebb24a543decb2e300c8be3923f0f7bb640e8b1e3513c628e83daeba722fe29e",
+  "createdAt": "2026-05-23T04:32:47.476Z",
+  "issuerSignature": "0x3d251d7b0f0da362f882eb07dae986c28510f3c87e775dd984a1b1d45d1915762618d527a96ae92245af0a1fe4569853130c0d2b66b0d23fbaec085c2bd7b7f61b",
+  "signatureMessage": "Cấp văn bằng cho 0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266 lúc 1779510766072",
+  "isVerified": true,
+  "verificationTx": "0x7027912612636d9223ca9c260fc654f228ae917bcced1ebd26c04e0473340a1a",
+  "verificationDate": "2026-06-04T06:03:13.091Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "diploma_1780553009049_s8mgz4y90",
+  "issueDate": "2026-06-04T06:03:29.049Z",
+  "documentType": "Bằng Đại Học",
+  "ownerAddress": "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266",
+  "issuerAddress": "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266",
+  "documentURI": "dainam.edu.vn",
+  "recipientData": {},
+  "documentHash": "0x8afe5a62c15d09f151c6084d65d8820ac9b43fb653704120842b0fa5cd36179f",
+  "transactionHash": "0x3a5575f33f37fc6ba573b11d9b061a5067405341daf32a60f76e2f7e56eb4333",
+  "createdAt": "2026-06-04T06:03:29.049Z",
+  "issuerSignature": "0x1f88cf855e067b24aaf899d6e54dec8d672509cb7cc449e2bedc321e8f50f35d491b75c0c3731a6f2fe9daab189bc7857d28a73e3b3d334affb7e0e4bfedc8ee1c",
+  "signatureMessage": "Cấp văn bằng cho 0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266 lúc 1780553007229"
+}

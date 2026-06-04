@@ -1,0 +1,17 @@
+{
+  "id": "diploma_1779510799915_rem9bia72",
+  "issueDate": "2026-05-23T04:33:19.915Z",
+  "documentType": "Bằng Đại Học",
+  "ownerAddress": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+  "issuerAddress": "0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266",
+  "documentURI": "dainam.edu.vn",
+  "recipientData": {},
+  "documentHash": "0x1cb610578cbc1d2ea18c35cdd63da5822b50c7ca41fbed0701686dd01706147c",
+  "transactionHash": "0x47a9bd3d1f6981b607d7013b12a7f28ce998c81249ca5bec711f96cf3b9f7ffa",
+  "createdAt": "2026-05-23T04:33:19.915Z",
+  "issuerSignature": "0x47dda979e270ac51f6225d92a023ee1a37d0c3bf91f714f44c511f1208a288262d6549887638f63e4463512b9924059ac63c3ab66ed4b4844dde3070ff03ffdf1b",
+  "signatureMessage": "Cấp văn bằng cho 0x70997970C51812dc3A010C7d01b50e0d17dc79C8 lúc 1779510797417",
+  "isVerified": true,
+  "verificationTx": "0xa838bdbf7da62eb2b987c5dac6664c9aa9736165216a67343becb218a763dea9",
+  "verificationDate": "2026-05-23T04:33:38.263Z"
+}
